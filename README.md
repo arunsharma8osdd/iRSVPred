@@ -49,7 +49,7 @@ python validate_model_251_epochs.py
 
 python validate_model_502_epochs.py
 
-The above mentioned codes have all steps in common except the prediction models to be used for validation. The output of codes will be prediction accuracy (%) on the terminal window.
+The above mentioned codes have all steps in common except that the respective prediction models to be used for validation. The output of codes will be variety-wise prediction accuracy (%) on the terminal window.
 
 
 **Question. How to augment the original images?**
