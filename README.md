@@ -12,9 +12,11 @@ This repository contains:
 
 # Frequently asked questions:
 
-Question. How to train deep learning models using above given codes?
+# Question. How to train deep learning models using above given codes?
 
-Answer. You have to store your training set images in directory named "train" as given in train.zip and run command as given below:
+# Answer.
+
+You have to store your training set images in directory named "train" as given in train.zip and run command as given below:
 
 I) To develop 251 epochs based model:
 python train_model_251_epochs.py
