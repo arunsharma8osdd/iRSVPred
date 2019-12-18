@@ -18,6 +18,8 @@ This repository contains:
 
 **8. Code used for validation of the iRSVPred prediction model (502 epochs based):** validate_model_502_epochs.py
 
+**9. Assisting Python code (automatically used in model training Python scripts):** datasets.py
+
 
 # Frequently asked questions:
 
