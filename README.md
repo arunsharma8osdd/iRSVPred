@@ -29,12 +29,9 @@ This repository contains:
 
 **Answer.** The library requirements are as follows:
 
-**OS:** Linux / Windows / Mac OS (Any OS with Python 2.7.15+ and OS, glob, shuffle, numpy, time, sys and matplotlib modules installed on it)
+**OS:** Linux / Windows / Mac OS (Any OS with Python 2.7.15+ and Python modules such as OS, glob, shuffle, numpy, time, sys and matplotlib modules installed on it)
 
-**Other Libraries required:** 
-
-**Open CV2**
-**tensorflow-1.5.0**
+**Other Libraries required:** Open CV2, tensorflow-1.5.0
 
 
 **Question. How to train deep learning models using above given codes?**
