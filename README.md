@@ -25,9 +25,21 @@ This repository contains:
 
 **Note:** The training and validation set images must be supplied in unzipped format only. 
 
+**Question. What are the dependencies or library and operating system (OS) requirements to run these codes?**
+
+**Answer.** The library requirements are as follows:
+
+**OS:** Linux / Windows / Mac OS (Any OS with Python 2.7.15+ and OS, glob, shuffle, numpy, time, sys and matplotlib modules installed on it)
+
+**Other Libraries required:** 
+
+**Open CV2**
+**tensorflow-1.5.0**
+
+
 **Question. How to train deep learning models using above given codes?**
 
-**Answer.** You have to store your training set images in directory named "train" as given in "train.zip" and run command as given below:
+**Answer.** The users have to store your training set images in directory named "train" as given in "train.zip" and run command as given below:
 
 **I) To develop 251 epochs based model:**
 
@@ -63,4 +75,4 @@ clodsa aug_CLoDSA_rotate_45.json
 The augmented images will be stored in newly created directory. These may be further used for training and testing of prediction models. 
 
 
-
+**Note:** Originally, the deep learning models training and validation Python scripts were downloaded from https://github.com/sankit1/cv-tricks.com/tree/master/Tensorflow-tutorials/tutorial-2-image-classifier and customized according to requirements of present study.
